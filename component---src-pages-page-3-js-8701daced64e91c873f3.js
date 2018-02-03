@@ -1,0 +1,2 @@
+webpackJsonp([0x81ce6852476c],{186:function(e,t,l){"use strict";function u(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var n=l(4),a=u(n),r=l(57),c=(u(r),function(){return a.default.createElement("div",null,a.default.createElement("h1",null,"Hi from the thirst page"),a.default.createElement("p",null,"Welcome to page 33333333333333"))});t.default=c,e.exports=t.default}});
+//# sourceMappingURL=component---src-pages-page-3-js-8701daced64e91c873f3.js.map
